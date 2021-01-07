@@ -20,15 +20,43 @@ functionality.
 
 ---
 
-## challenge1.test.ts
+## `challenge1.test.ts`
+
+There are 3 bugs, one in each test, that will cause the test to fail or error
+out.
+
+- 2 of the bugs are in this test file.
+- 1 of the bugs is in one of the page object methods.
+
+Fix the bugs so that the tests run correctly, passing.
 
 ---
 
-## challenge2.test.ts
+## `challenge2.test.ts`
+
+These tests checks for palindromes successfully.
+
+Add an additional .json file and set of tests in this file for testing
+non-palindromes.
 
 ---
 
-## challenge3.test.ts
+## `challenge3.test.ts`
+
+Currently, no tests check the Sum widget.
+
+Add tests in this file, and methods to the `Widgets` page object, that will
+validate that sums work.
+
+---
+
+## `stretch.test.ts`
+
+If you are concerned about completing one of the above challenges, you can also
+add tests that identify bugs in the application here.
+
+At least two bugs should be located by these tests to offset an incomplete or
+incorrect challenge.
 
 ---
 
